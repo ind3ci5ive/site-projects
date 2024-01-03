@@ -1,0 +1,26 @@
+* {
+
+    border: 2px solid red;
+}
+
+
+h1 {
+
+    text-align: center;
+}
+
+
+li {
+
+    list-style-type: none;
+    float: left;
+
+}
+
+a {
+
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+}
